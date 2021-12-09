@@ -23,7 +23,7 @@ contract NiceGuy {
 }
 ```
 
-## Usage
+## Basic Usage
 ```solidity
 /**
  * @title Button created by Marto
@@ -49,6 +49,9 @@ contract Button is NiceGuy {
     }
 }
 ```
+
+
+> More example contracts coming soon
 
 ##
 ###### Made with ❤ by <a target="_blank" href="https://twitter.com/martinlsanchez" class="author">Marto</a> (marto.eth)
